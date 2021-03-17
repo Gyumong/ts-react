@@ -1,0 +1,31 @@
+{
+  "name": "ts-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyumong/ts-react.git"
+  },
+  "author": "mingy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gyumong/ts-react/issues"
+  },
+  "homepage": "https://github.com/Gyumong/ts-react#readme",
+  "dependencies": {
+    "@types/react": "17.0.3",
+    "@types/react-dom": "17.0.2",
+    "awesome-typescript-loader": "5.2.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "typescript": "4.2.3"
+  },
+  "devDependencies": {
+    "webpack": "5.26.2",
+    "webpack-cli": "4.5.0"
+  }
+}
