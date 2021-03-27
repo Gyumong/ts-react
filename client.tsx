@@ -1,7 +1,7 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import ResponseCheck from './ResponseCheck';
+import RSP from './RSP';
 
 
 
-ReactDOM.render(<ResponseCheck/>,document.querySelector('#root'));
+ReactDOM.render(<RSP/>,document.querySelector('#root'));
